@@ -84,5 +84,5 @@ Dataset:https://1drv.ms/x/c/a3c69a2d7a12201f/IQDX-aqV4AXTQp2ez0ExHaIEAeg7HU5EdXz
  Author:
 
 Ponesakki M
-Future Intern | Data Analytics | Marketing Analytics
+Future Intern | Data Analytics | Marketing Analytics| data science
 # FUTURE_DS_02
